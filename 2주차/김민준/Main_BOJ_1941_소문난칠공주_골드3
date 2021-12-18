@@ -1,24 +1,14 @@
-package week2;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
-// 시간 360ms
-// 메모리 68496kb
-// 코드길이 1881
+//시간 360ms
+//메모리 68496kb
+//코드길이 1881
 
 public class Main_BOJ_1941_소문난칠공주_골드3 {
-	static class Loc{
-		int r;
-		int c;
-		public Loc(int r, int c) {
-			this.r = r;
-			this.c = c;
-		}
-	};
-	
 	static int N = 5;
 	static char[][] map;
 	static int[] dr = {1,0,-1,0};
