@@ -17,7 +17,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [15661](http://noj.am/15661) | 링크와 스타트
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2193](http://noj.am/2193) | 이친수
 
-### 3,4wnck (21.12.23)
+### 3,4주차 (21.12.23)
 레벨 | 번호 | 제목
 :-: | :-: | :-:
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1937](http://noj.am/1937) | 욕심쟁이 판다
