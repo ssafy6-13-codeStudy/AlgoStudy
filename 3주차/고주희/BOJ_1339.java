@@ -12,6 +12,8 @@ import java.util.Map;
 // 시간 : 1620ms
 // 메모리 : 12476KB
 
+// 대박 풀이 :https://www.acmicpc.net/source/5379976
+
 public class BOJ_1339_2 {
 
 
