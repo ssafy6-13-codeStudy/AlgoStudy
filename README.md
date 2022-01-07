@@ -25,3 +25,11 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [11559](http://noj.am/11559) | 뿌요뿌요
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [20055](http://noj.am/20055) | 컨베이어 벨트 위의 로봇
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16948](http://noj.am/16948) | 데스 나이트
+
+### 5주차 (22.01.06)
+레벨 | 번호 | 제목
+:-: | :-: | :-:
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [9935](http://noj.am/9935) | 문자열폭발
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [5052](http://noj.am/5052) | 전화번호 목록
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2661](http://noj.am/2661) | 좋은수열
+D4 | 3289(SWEA) | 서로소집합
