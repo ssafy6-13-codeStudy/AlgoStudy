@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+// 시간 : 486ms
+// 메모리 : 113508KB
+
 public class SWEA_3289 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
