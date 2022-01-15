@@ -33,3 +33,11 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [5052](http://noj.am/5052) | 전화번호 목록
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2661](http://noj.am/2661) | 좋은수열
 D4 | 3289(SWEA) | 서로소집합
+
+### 6주차 (22.01.13)
+레벨 | 번호 | 제목
+:-: | :-: | :-:
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [5430](http://noj.am/5430) | AC
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2110](http://noj.am/2110) | 공유기 설치
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [16234](http://noj.am/16234) | 인구 이동
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2225](http://noj.am/2225) | 합분해
