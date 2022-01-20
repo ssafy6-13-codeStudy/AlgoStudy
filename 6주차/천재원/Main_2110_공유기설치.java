@@ -1,4 +1,4 @@
-// 시간초과 
+// 792ms
 
 import java.util.Arrays;
 import java.util.Scanner;
