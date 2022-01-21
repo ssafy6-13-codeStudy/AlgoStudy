@@ -41,3 +41,11 @@ D4 | 3289(SWEA) | 서로소집합
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2110](http://noj.am/2110) | 공유기 설치
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [16234](http://noj.am/16234) | 인구 이동
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2225](http://noj.am/2225) | 합분해
+
+### 7주차 (22.01.20)
+레벨 | 번호 | 제목
+:-: | :-: | :-:
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [21610](http://noj.am/21610) | 마법사 상어와 비바라기
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1013](http://noj.am/1013) | Contact
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16928](http://noj.am/16928) | 뱀과 사다리 게임
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1309](http://noj.am/1309) | 동물원
