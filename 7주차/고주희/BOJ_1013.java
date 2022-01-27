@@ -67,7 +67,7 @@ public class BOJ_1013 {
 				i++;
 //				System.out.println(status+"로 갑니다"+flag);
 			}
-			System.out.println(status==2 || status==6? "YES":"NO");
+			System.out.println(status==2 || status==6 || status==7? "YES":"NO");
 		}
 			
 	}
