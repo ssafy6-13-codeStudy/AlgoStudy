@@ -4,8 +4,8 @@ import java.util.*;
 /*
     마법사 상어와 비바라기
     골드 5
-    시간 : ms
-    메모리 : kb
+    시간 : 192ms
+    메모리 : 18852kb
 */
 
 public class Main {
