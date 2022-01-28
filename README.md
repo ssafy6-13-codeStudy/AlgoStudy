@@ -49,3 +49,11 @@ D4 | 3289(SWEA) | 서로소집합
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1013](http://noj.am/1013) | Contact
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16928](http://noj.am/16928) | 뱀과 사다리 게임
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1309](http://noj.am/1309) | 동물원
+
+### 7주차 (22.01.27)
+레벨 | 번호 | 제목
+:-: | :-: | :-:
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1038](http://noj.am/1038) | 감소하는 수
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [13913](http://noj.am/13913) | 숨바꼭질4
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [2022](http://noj.am/2022) | 사다리
+level2 | [링크](https://programmers.co.kr/learn/courses/30/lessons/59040) | 고양이와 개는 몇 마리 있을까
