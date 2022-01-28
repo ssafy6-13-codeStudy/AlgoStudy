@@ -50,7 +50,7 @@ D4 | 3289(SWEA) | 서로소집합
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16928](http://noj.am/16928) | 뱀과 사다리 게임
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1309](http://noj.am/1309) | 동물원
 
-### 7주차 (22.01.27)
+### 8주차 (22.01.27)
 레벨 | 번호 | 제목
 :-: | :-: | :-:
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1038](http://noj.am/1038) | 감소하는 수
