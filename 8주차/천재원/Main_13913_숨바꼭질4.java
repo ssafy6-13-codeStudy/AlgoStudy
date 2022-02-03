@@ -1,6 +1,9 @@
+// 1296ms
+// 52196kb
+
 import java.util.*;
 
-public class Main_13913_¼û¹Ù²ÀÁú4 {
+public class Main_13913_Â¼Ã»Â¹Ã™Â²Ã€ÃÃº4 {
 	
 	static int N, K;
 	static int time[] = new int[100001];
