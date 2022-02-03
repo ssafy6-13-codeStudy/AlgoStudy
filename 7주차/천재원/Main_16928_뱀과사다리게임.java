@@ -1,7 +1,10 @@
+// 80ms
+// 11744 kb
+
 import java.util.*;
 import java.io.*;
 
-public class Main_16928_¹ì°ú»ç´Ù¸®°ÔÀÓ {
+public class Main_16928_ë±€ê³¼ì‚¬ë‹¤ë¦¬ê²Œì„ {
 	static int N,M;
 	static Map<Integer, Integer>ladder = new HashMap<>();
 	static Map<Integer, Integer>snake = new HashMap<>();
@@ -37,7 +40,7 @@ public class Main_16928_¹ì°ú»ç´Ù¸®°ÔÀÓ {
 					que.add(nr);
 					map[nr] = map[cur] +1;
 					visited[nr] = true;
-				}else if(map[nr] > map[cur] +1) { // ÀÌ¹Ì ¹æ¹®Çß´Âµ¥ ¸¸¾à ´õ ÂªÀº cnt°¡ ³ª¿Ã¼ö ÀÖÀ¸¸é Àç¹æ¹®
+				}else if(map[nr] > map[cur] +1) { // ì´ë¯¸ ë°©ë¬¸í–ˆëŠ”ë° ë§Œì•½ ë” ì§§ì€ cntê°€ ë‚˜ì˜¬ìˆ˜ ìˆìœ¼ë©´ ì¬ë°©ë¬¸
 					que.add(nr);
 					map[nr] = map[cur] +1;
 				}
@@ -45,7 +48,7 @@ public class Main_16928_¹ì°ú»ç´Ù¸®°ÔÀÓ {
 			
 			
 		}
-		System.out.println(map[100]); // 100¹øÂ° Ãâ·Â ¤·¤»?
+		System.out.println(map[100]); // 100ë²ˆì§¸ ì¶œë ¥ ã…‡ã…‹?
 		
 	}
 
