@@ -1,11 +1,11 @@
-// 876ms
-// 203664kb
+// 876 ms
+// 203664 kb
 
 import java.io.*;
 import java.util.*;
 import java.lang.*;
 
-public class Main_21610_¸¶¹ı»ç»ó¾î¿Íºñ¹Ù¶ó±â {
+public class Main_21610_ë§ˆë²•ì‚¬ìƒì–´ì™€ë¹„ë°”ë¼ê¸° {
 	static int map[][] ;
 	static int N,M;
 	static int dr[] = {0,0,-1,-1,-1,0,1,1,1};
@@ -40,7 +40,7 @@ public class Main_21610_¸¶¹ı»ç»ó¾î¿Íºñ¹Ù¶ó±â {
 			int len = T2I(st.nextToken());
 			boolean[][] visited = new boolean[N+1][N+1];
 
-			// ±¸¸§À» len ¸¸Å­ ÀÌµ¿ 
+			// êµ¬ë¦„ì„ len ë§Œí¼ ì´ë™ 
 			for (int l = 1; l <= len; l++) {
 				int size = cloud.size();
 				for (int j = 1; j <= size; j++) {
@@ -52,7 +52,7 @@ public class Main_21610_¸¶¹ı»ç»ó¾î¿Íºñ¹Ù¶ó±â {
 				}
 				
 			}
-			// ±¸¸§ÀÇ ºñÀÇ ¾ç 1 Áõ°¡
+			// êµ¬ë¦„ì˜ ë¹„ì˜ ì–‘ 1 ì¦ê°€
 			int size = cloud.size();
 			for (int j = 0; j < size; j++) {
 				int[] cur = cloud.poll();
@@ -61,7 +61,7 @@ public class Main_21610_¸¶¹ı»ç»ó¾î¿Íºñ¹Ù¶ó±â {
 				cloud.add(cur);
 			}
 
-			// ±¸¸§ ´ë°¢¼± À§Ä¡¿¡ ¹°ÀÌ ÀÖ´Â Áö È®ÀÎ ÈÄ cnt ¸¸Å­ Áõ°¡
+			// êµ¬ë¦„ ëŒ€ê°ì„  ìœ„ì¹˜ì— ë¬¼ì´ ìˆëŠ” ì§€ í™•ì¸ í›„ cnt ë§Œí¼ ì¦ê°€
 			for (int j = 0; j < size; j++) {
 				int [] cur = cloud.poll();
 //				System.out.println("cloud position : " + Arrays.toString(cur));
@@ -77,7 +77,7 @@ public class Main_21610_¸¶¹ı»ç»ó¾î¿Íºñ¹Ù¶ó±â {
 				map[cur[0]][cur[1]] += cnt;
 			}			
 //			if(i == M ) break;
-			// ¹°ÀÇ ¾çÀÌ 2 ÀÌ»óÀÌ¸é¼­ ±¸¸§ÀÌ ¼Ò¸êµÇÁö ¾ÊÀº °÷¿¡¼­ ±¸¸§ÀÌ »ı¼º
+			// ë¬¼ì˜ ì–‘ì´ 2 ì´ìƒì´ë©´ì„œ êµ¬ë¦„ì´ ì†Œë©¸ë˜ì§€ ì•Šì€ ê³³ì—ì„œ êµ¬ë¦„ì´ ìƒì„±
 			for (int r = 1; r <= N; r++) {
 				for (int c = 1; c <= N; c++) {
 					if(map[r][c] >= 2 && !visited[r][c]) {
