@@ -58,7 +58,7 @@ D4 | 3289(SWEA) | 서로소집합
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [2022](http://noj.am/2022) | 사다리
 level2 | [링크](https://programmers.co.kr/learn/courses/30/lessons/59040) | 고양이와 개는 몇 마리 있을까
 
-### 8주차 (22.02.21)
+### 9주차 (22.02.21)
 레벨 | 번호 | 제목
 :-: | :-: | :-:
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20056](http://noj.am/20056) | 마법사 상어와 파이어볼
