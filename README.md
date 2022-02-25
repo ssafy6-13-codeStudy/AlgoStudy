@@ -65,3 +65,11 @@ level2 | [링크](https://programmers.co.kr/learn/courses/30/lessons/59040) | �
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17298](http://noj.am/17298) | 오큰수
 level3 | [링크](https://programmers.co.kr/learn/courses/30/lessons/59043) | 있었는데요 없었습니다
 level3 | [링크](https://programmers.co.kr/learn/courses/30/lessons/59044) | 오랜 기간 보호한 동물(1)
+
+### 9주차 (22.02.24)
+레벨 | 번호 | 제목
+:-: | :-: | :-:
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [23843](http://noj.am/23843) | 성냥개비
+advanced | [3529](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2869&sca=4050) | 문자들
+level3 | [링크](https://programmers.co.kr/learn/courses/30/lessons/42579) | 베스트앨범
+level3 | [링크](https://programmers.co.kr/learn/courses/30/lessons/59411) | 오랜 기간 보호한 동물(2)
