@@ -69,7 +69,7 @@ level3 | [링크](https://programmers.co.kr/learn/courses/30/lessons/59044) | �
 ### 10주차 (22.03.03)
 레벨 | 번호 | 제목
 :-: | :-: | :-:
-<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [23843](http://noj.am/23843) | 성냥개비
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [23843](https://www.acmicpc.net/problem/23842) | 성냥개비
 advanced | [3529](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2869&sca=4050) | 문자들
 level3 | [링크](https://programmers.co.kr/learn/courses/30/lessons/42579) | 베스트앨범
 level3 | [링크](https://programmers.co.kr/learn/courses/30/lessons/59411) | 오랜 기간 보호한 동물(2)
