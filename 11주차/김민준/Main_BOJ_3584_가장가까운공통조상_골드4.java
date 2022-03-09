@@ -42,15 +42,6 @@ public class Main_BOJ_3584_가장가까운공통조상_골드4 {
 			dfs(nodeA, new ArrayList<>(), true); 
 			dfs(nodeB, new ArrayList<>(), false);
 			
-//			System.out.println();
-//			for (Integer i : resultA) {
-//				System.out.print(i + " ");
-//			}
-//			System.out.println();
-//			for (Integer i : resultB) {
-//				System.out.print(i + " ");
-//			}
-//			System.out.println();
 			if(resultA.size() >= resultB.size()) {
 				LCA(resultA, resultB);
 			}else {
@@ -67,7 +58,7 @@ public class Main_BOJ_3584_가장가까운공통조상_골드4 {
 		while (true) {
 			if (lo.isEmpty() || sh.isEmpty()) {
 				break;
-            }
+            		}
 			first = lo.get(lo.size()-1);
 			lo.remove(lo.size()-1);
 			second = sh.get(sh.size()-1);
