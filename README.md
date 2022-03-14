@@ -89,4 +89,4 @@ level3 | [링크](https://programmers.co.kr/learn/courses/30/lessons/43162) | �
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [15683](https://www.acmicpc.net/problem/15683) | 감시
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [4179](https://www.acmicpc.net/problem/4179) | 불!
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1946](https://www.acmicpc.net/problem/1946) | 신입 사원
-level2 | [링크]https://programmers.co.kr/learn/courses/30/lessons/60057) | 문자열 압축
+level2 | [링크](https://programmers.co.kr/learn/courses/30/lessons/60057) | 문자열 압축
