@@ -98,4 +98,4 @@ level2 | [링크](https://programmers.co.kr/learn/courses/30/lessons/60057) | �
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [15683](https://www.acmicpc.net/problem/15683) | 감시
 level2 | [링크](https://programmers.co.kr/learn/courses/30/lessons/60057) | 문자열 압축
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2812](https://www.acmicpc.net/problem/2812) | 크게 만들기
-<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [1699](https://www.acmicpc.net/problem/1699) | 제곱수의 
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [1699](https://www.acmicpc.net/problem/1699) | 제곱수의 합 
