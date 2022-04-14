@@ -101,10 +101,12 @@ level2 | [링크](https://programmers.co.kr/learn/courses/30/lessons/60057) | �
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [1699](https://www.acmicpc.net/problem/1699) | 제곱수의 합 
 
 
-### 14주차 (22.03.31)
+### 14주차 (22.04.14)
 레벨 | 번호 | 제목
 :-: | :-: | :-:
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2589](https://www.acmicpc.net/problem/2589) | 보물섬
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [7562](https://www.acmicpc.net/problem/7562) | 나이트의 이동
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [2628](https://www.acmicpc.net/problem/2628) | 종이 자르기
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [18429](https://www.acmicpc.net/problem/18429) | 근손실
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17779](https://www.acmicpc.net/problem/17779) | 게리맨더링2
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2174](https://www.acmicpc.net/problem/2174) | 로봇 시뮬레이션
