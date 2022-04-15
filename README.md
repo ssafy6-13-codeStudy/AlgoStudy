@@ -110,3 +110,4 @@ level2 | [링크](https://programmers.co.kr/learn/courses/30/lessons/60057) | �
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [18429](https://www.acmicpc.net/problem/18429) | 근손실
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17779](https://www.acmicpc.net/problem/17779) | 게리맨더링2
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2174](https://www.acmicpc.net/problem/2174) | 로봇 시뮬레이션
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [11000](https://www.acmicpc.net/problem/11000) | 강의실 배정
