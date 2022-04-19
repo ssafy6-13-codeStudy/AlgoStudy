@@ -130,3 +130,4 @@
 | :------------------------------------------------------------------: | :------------------------------------------: | :---------: |
 | <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1012](https://www.acmicpc.net/problem/1012) | 유기농 배추 |
 | <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2644](https://www.acmicpc.net/problem/2644) |  촌수계산   |
+| <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기 |
