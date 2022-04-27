@@ -131,3 +131,13 @@
 | <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1012](https://www.acmicpc.net/problem/1012) | 유기농 배추 |
 | <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2644](https://www.acmicpc.net/problem/2644) |  촌수계산   |
 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기 |
+| <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [12764](https://www.acmicpc.net/problem/12764) | 싸지방에 간 준하 |
+| <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1943](https://www.acmicpc.net/problem/1943) | 동전 분배 |
+| <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [17070](https://www.acmicpc.net/problem/17070) | 파이프 옮기기1 |
+
+### 16주차 (22.04.28)
+
+|                                 레벨                                 |                     번호                     |    제목     |
+| :------------------------------------------------------------------: | :------------------------------------------: | :---------: |
+| <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [9019](https://www.acmicpc.net/problem/9019) | DSLR |
+| <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [23288](https://www.acmicpc.net/problem/23288) | 주사위 굴리기2 |
