@@ -141,3 +141,13 @@
 | :------------------------------------------------------------------: | :------------------------------------------: | :---------: |
 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [9019](https://www.acmicpc.net/problem/9019) | DSLR |
 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [23288](https://www.acmicpc.net/problem/23288) | 주사위 굴리기2 |
+| <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2212](https://www.acmicpc.net/problem/2212) | 센서 |
+| <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2116](https://www.acmicpc.net/problem/2116) | 주사위 쌓기 |
+| <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 |
+
+### 17주차 (22.05.05)
+
+|                                 레벨                                 |                     번호                     |    제목     |
+| :------------------------------------------------------------------: | :------------------------------------------: | :---------: |
+| <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1041](https://www.acmicpc.net/problem/1041) | 주사위 |
+| <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1759](https://www.acmicpc.net/problem/1759) | 암호 만들기 |
