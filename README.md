@@ -151,3 +151,10 @@
 | :------------------------------------------------------------------: | :------------------------------------------: | :---------: |
 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1041](https://www.acmicpc.net/problem/1041) | 주사위 |
 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1759](https://www.acmicpc.net/problem/1759) | 암호 만들기 |
+
+### 18주차 (22.05.12)
+
+|                                 레벨                                 |                     번호                     |    제목     |
+| :------------------------------------------------------------------: | :------------------------------------------: | :---------: |
+| <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1695](https://www.acmicpc.net/problem/1695) | 펠린드롬 만들기 |
+| <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16197](https://www.acmicpc.net/problem/16197) | 두 동전 |
