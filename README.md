@@ -158,3 +158,5 @@
 | :------------------------------------------------------------------: | :------------------------------------------: | :---------: |
 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1695](https://www.acmicpc.net/problem/1695) | 펠린드롬 만들기 |
 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16197](https://www.acmicpc.net/problem/16197) | 두 동전 |
+| <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [4386](https://www.acmicpc.net/problem/4386) | 별자리 만들기 |
+| <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2580](https://www.acmicpc.net/problem/2580) | 스도쿠 |
