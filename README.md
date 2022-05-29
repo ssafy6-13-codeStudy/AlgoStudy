@@ -166,3 +166,10 @@
 |                                 레벨                                 |                     번호                     |    제목     |
 | :------------------------------------------------------------------: | :------------------------------------------: | :---------: |
 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1062](https://www.acmicpc.net/problem/1062) | 가르침 |
+| <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [16986](https://www.acmicpc.net/problem/16986) | 인싸들의 가위바위보 |
+
+### 20주차 (22.06.02)
+
+|                                 레벨                                 |                     번호                     |    제목     |
+| :------------------------------------------------------------------: | :------------------------------------------: | :---------: |
+| <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1726](https://www.acmicpc.net/problem/1726) | 로봇 |
