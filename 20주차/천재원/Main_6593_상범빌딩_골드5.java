@@ -1,3 +1,6 @@
+// 16520kb
+// 132ms
+
 import java.util.*;
 import java.io.*;
 
@@ -70,21 +73,46 @@ public class Main_6593_상범빌딩_골드5 {
 				return;
 			}
 			
+			if(cur.l != L-1 && building[cur.l+1][cur.r][cur.c] != '#') {
+				
+				if(cur.l+1 == dst.l && cur.r == dst.r && cur.c == dst.c) {
+					answer = cur.cnt+1;
+					return;
+				}
+				
+				if(!visited[cur.l+1][cur.r][cur.c]) {
+					visited[cur.l][cur.r][cur.c]= true;
+					que.offer(new Position(cur.l+1, cur.r, cur.c, cur.cnt+1));
+				}
+			}
+			
+			if(cur.l != 0 && building[cur.l-1][cur.r][cur.c] != '#') {
+				
+				if(cur.l+1 == dst.l && cur.r == dst.r && cur.c == dst.c) {
+					answer = cur.cnt+1;
+					return;
+				}
+				
+				if(!visited[cur.l-1][cur.r][cur.c]) {
+					visited[cur.l][cur.r][cur.c]= true;
+					que.offer(new Position(cur.l-1, cur.r, cur.c, cur.cnt+1));
+				}
+			}
+			
 			for(int d=0; d<4; d++) {
 				int nr = cur.r + dr[d];
 				int nc = cur.c + dc[d];
 				if(nr>=0 && nr<R && nc >=0 && nc<C && building[cur.l][nr][nc] != '#') {
+					
+					if(cur.l == dst.l && nr == dst.r && nc == dst.c) {
+						answer = cur.cnt+1;
+						return;
+					}
+					
 					if(!visited[cur.l][nr][nc]) {
 						visited[cur.l][nr][nc] = true;
 						que.offer(new Position(cur.l, nr,nc, cur.cnt+1));
 					}
-				}
-			}
-			
-			if(cur.l != L-1 && building[cur.l+1][cur.r][cur.c] != '#') {
-				if(!visited[cur.l+1][cur.r][cur.c]) {
-					visited[cur.l][cur.r][cur.c]= true;
-					que.offer(new Position(cur.l+1, cur.r, cur.c, cur.cnt+1));
 				}
 			}
 			
