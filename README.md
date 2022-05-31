@@ -173,3 +173,5 @@
 |                                 레벨                                 |                     번호                     |    제목     |
 | :------------------------------------------------------------------: | :------------------------------------------: | :---------: |
 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1726](https://www.acmicpc.net/problem/1726) | 로봇 |
+| <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [6593](https://www.acmicpc.net/problem/6593) | 상범빌딩 |
+| <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [19942](https://www.acmicpc.net/problem/19942) | 다이어트 |
