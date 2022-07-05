@@ -192,7 +192,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1043](https://www.acmicpc.net/problem/1043) | 거짓말 |
 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1240](https://www.acmicpc.net/problem/1240) | 노드 사이의 거리 |
 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [10026](https://www.acmicpc.net/problem/10026) | 적록색약 |
-| <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [10026](https://www.acmicpc.net/problem/10026) | 주차요금 계산 |
+| level2 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 주차요금 계산 |
 
 ### 23주차 (22.06.23)
 
