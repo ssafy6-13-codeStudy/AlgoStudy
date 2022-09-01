@@ -9,7 +9,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 // 시간 : 180ms
-// 메모리 : 46256KB
+// 메모리 : 20072KB
 public class Main {
 
 	public static void main(String[] args) throws IOException {
