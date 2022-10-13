@@ -168,7 +168,10 @@ class Main {
             for (int j = 0; j < 4; j++) {
                 if (blue[j][i]) count++;
             }
-            if (count == 4) list.add(i);
+            if (count == 4) {
+                list.add(i);
+                score++;
+            }
         }
         if (list.size() > 0) moveBlue(list);
 
